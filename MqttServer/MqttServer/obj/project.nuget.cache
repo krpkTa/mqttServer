@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qicZJE75BLI=",
+  "success": true,
+  "projectFilePath": "D:\\CourseWork\\MqttServer\\MqttServer\\MqttBroker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mqttnet\\5.0.1.1416\\mqttnet.5.0.1.1416.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mqttnet.server\\5.0.1.1416\\mqttnet.server.5.0.1.1416.nupkg.sha512"
+  ],
+  "logs": []
+}
