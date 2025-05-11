@@ -1,0 +1,5 @@
+D:\CourseWork\MqttServer\MqttServer\obj\Debug\net9.0\MqttServer.csproj.AssemblyReference.cache
+D:\CourseWork\MqttServer\MqttServer\obj\Debug\net9.0\MqttServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CourseWork\MqttServer\MqttServer\obj\Debug\net9.0\MqttServer.AssemblyInfoInputs.cache
+D:\CourseWork\MqttServer\MqttServer\obj\Debug\net9.0\MqttServer.AssemblyInfo.cs
+D:\CourseWork\MqttServer\MqttServer\obj\Debug\net9.0\MqttServer.csproj.CoreCompileInputs.cache
