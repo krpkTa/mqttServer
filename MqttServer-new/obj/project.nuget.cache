@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nou7ktMBB70=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tatya\\Downloads\\mqttServer-main\\mqttServer-main\\MqttServer\\MqttServer\\MqttBroker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tatya\\.nuget\\packages\\mqttnet\\5.0.1.1416\\mqttnet.5.0.1.1416.nupkg.sha512",
+    "C:\\Users\\tatya\\.nuget\\packages\\mqttnet.server\\5.0.1.1416\\mqttnet.server.5.0.1.1416.nupkg.sha512"
+  ],
+  "logs": []
+}
